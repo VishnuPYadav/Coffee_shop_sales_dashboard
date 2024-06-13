@@ -11,10 +11,9 @@ Data Source: Maven Analytics Coffee Shop Sales Dataset.
 
 # Key Analyses:
 -- Sales Trends: Identified peak sales periods and top-selling products.
---
---Customer Behavior: Analyzed customer purchase patterns and preferences.
---Revenue Analysis: Evaluated revenue streams to uncover growth opportunities.
---Operational Insights: Examined efficiency metrics to suggest operational improvements.
+-- Customer Behavior: Analyzed customer purchase patterns and preferences.
+-- Revenue Analysis: Evaluated revenue streams to uncover growth opportunities.
+-- Operational Insights: Examined efficiency metrics to suggest operational improvements.
 
 # 📈 Tools & Techniques:
 -- Microsoft Excel: Leveraged advanced functions, pivot tables, and charts for in-depth data analysis and visualization.
@@ -28,7 +27,7 @@ Data Source: Maven Analytics Coffee Shop Sales Dataset.
 # 🌟 Learning Experience:
 This project has been a fantastic learning opportunity, helping me enhance my Excel skills and apply data analysis techniques to real-world scenarios. I'm excited to continue growing and tackling more complex projects in the future.
 
-🔗 Explore My Project:
+# 🔗 Explore My Project:
 Feel free to check out the detailed analysis and visualizations in my portfolio .
 
 A big thank you to Maven Analytics for providing such a rich dataset. Onward and upward in the data analytics journey!
