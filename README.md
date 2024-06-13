@@ -27,7 +27,7 @@ Data Source: Maven Analytics Coffee Shop Sales Dataset.
 #### 🌟 Learning Experience:
 This project has been a fantastic learning opportunity, helping me enhance my Excel skills and apply data analysis techniques to real-world scenarios. I'm excited to continue growing and tackling more complex projects in the future.
 
-# 🔗 Explore My Project:
+#### 🔗 Explore My Project:
 Feel free to check out the detailed analysis and visualizations in my portfolio .
 
 A big thank you to Maven Analytics for providing such a rich dataset. Onward and upward in the data analytics journey!
